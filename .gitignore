@@ -7,3 +7,4 @@ app/api/routes/__pycache__/
 app/core/__pycache__/
 app/intelligence/__pycache__/
 app/services/__pycache__/
+.idea
