@@ -1,0 +1,19 @@
+[project]
+name = "dbu-ai-policy"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "chromadb>=1.5.8",
+    "fastapi[standard]>=0.136.1",
+    "google-generativeai>=0.8.6",
+    "httpx>=0.28.1",
+    "psycopg[binary]>=3.3.4",
+    "pydantic-settings>=2.14.0",
+    "pypdf>=6.10.2",
+    "python-dotenv>=1.2.2",
+    "sentence-transformers>=5.4.1",
+    "sqlmodel>=0.0.38",
+    "uvicorn>=0.46.0",
+]

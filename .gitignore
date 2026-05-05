@@ -1,0 +1,9 @@
+.env
+app/docs
+app/intelligence/chroma_db
+app/__pycache__/
+app/api/__pycache__/
+app/api/routes/__pycache__/
+app/core/__pycache__/
+app/intelligence/__pycache__/
+app/services/__pycache__/
